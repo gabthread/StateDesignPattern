@@ -1,0 +1,12 @@
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StateDesignPatternDemo\StateDesignPatternDemo\bin\Debug\StateDesignPatternDemo.exe.config
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StateDesignPatternDemo\StateDesignPatternDemo\bin\Debug\StateDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StateDesignPatternDemo\StateDesignPatternDemo\bin\Debug\StateDesignPatternDemo.pdb
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StateDesignPatternDemo\StateDesignPatternDemo\obj\Debug\StateDesignPatternDemo.csprojResolveAssemblyReference.cache
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StateDesignPatternDemo\StateDesignPatternDemo\obj\Debug\StateDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\StateDesignPatternDemo\StateDesignPatternDemo\obj\Debug\StateDesignPatternDemo.pdb
+C:\Gabriel\Blog\StateDesignPattern\StateDesignPatternDemo\bin\Debug\StateDesignPatternDemo.exe.config
+C:\Gabriel\Blog\StateDesignPattern\StateDesignPatternDemo\obj\Debug\StateDesignPatternDemo.exe
+C:\Gabriel\Blog\StateDesignPattern\StateDesignPatternDemo\obj\Debug\StateDesignPatternDemo.pdb
+C:\Gabriel\Blog\StateDesignPattern\StateDesignPatternDemo\bin\Debug\StateDesignPatternDemo.exe
+C:\Gabriel\Blog\StateDesignPattern\StateDesignPatternDemo\bin\Debug\StateDesignPatternDemo.pdb
+C:\Gabriel\Blog\StateDesignPattern\StateDesignPatternDemo\obj\Debug\StateDesignPatternDemo.csprojResolveAssemblyReference.cache
